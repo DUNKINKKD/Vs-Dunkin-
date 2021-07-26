@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dunkcampain.png"><SubTexture name="dunkcampain idledance10000" x="0" y="0" width="702" height="702" frameX="0" frameY="0" frameWidth="702" frameHeight="702" />
+<SubTexture name="dunkcampain idledance20000" x="702" y="0" width="702" height="702" frameX="0" frameY="0" frameWidth="702" frameHeight="702" />
+<SubTexture name="dunkcampain idledance30000" x="1404" y="0" width="702" height="702" frameX="0" frameY="0" frameWidth="702" frameHeight="702" />
+<SubTexture name="dunkcampain idledance40000" x="2106" y="0" width="702" height="702" frameX="0" frameY="0" frameWidth="702" frameHeight="702" />
+<SubTexture name="dunkcampain idledance50000" x="0" y="702" width="702" height="702" frameX="0" frameY="0" frameWidth="702" frameHeight="702" />
+<SubTexture name="dunkcampain idledance60000" x="702" y="702" width="702" height="702" frameX="0" frameY="0" frameWidth="702" frameHeight="702" />
+</TextureAtlas>
